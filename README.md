@@ -1,16 +1,94 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm **Patrick Walukagga**  
+### **Backend Engineer | Cloud & Data Engineering | AI/ML Tooling | 2× AWS Certified**  
+*(Kampala, Uganda)*
 
-<!--
-**PatrickCmd/PatrickCmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/patrick-walukagga-53261382)  
+[![GitHub](https://img.shields.io/badge/GitHub-PatrickCmd-black?style=for-the-badge&logo=github)](https://github.com/PatrickCmd)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:p.walukagga@gmail.com)  
+[![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazonaws)]()  
+[![Python](https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python)]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+Back-End Software Engineer with **4+ years** building scalable backend systems, cloud-native services, and ML-powered applications. Strong in **Python, Django, FastAPI, PostgreSQL, Docker, AWS**, and modern data pipelines. Passionate about turning complex technical challenges into clean, maintainable systems.
+
+**Core strengths:**  
+💡 Backend systems • ⚙️ Distributed systems • ☁️ Cloud Engineering • 📊 Data Pipelines • 🤖 ML/AI Integration
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### **Languages**  
+🐍 Python • 💾 SQL • 🖥️ Bash
+
+### **Backend & APIs**  
+⚡ Django • FastAPI • Flask • GraphQL  
+🔌 REST APIs • Microservices • Systems Integration
+
+### **Cloud & DevOps**  
+☁️ AWS (2× Certified) • GCP  
+🐳 Docker • CI/CD • GitHub Actions • Nginx • Gunicorn
+
+### **Databases**  
+🟦 PostgreSQL • 🟧 MySQL
+
+### **Data & ML**  
+📈 Pandas • NumPy  
+🤖 ML tooling • LLM integration • ASR/TTS backends
+
+---
+
+## 🏢 Experience Highlights  
+
+### 🧠 **Sunbird AI — Software Engineer**  
+Building backend systems + infrastructure powering African language AI services.
+
+### 🎧 **Audersity — Django Backend Engineer**  
+Engineered stable, reliable, modular backend systems.
+
+### 📊 **Cecure Intelligence — Data Engineer Trainee**  
+Developed ETL pipelines and automated data ingestion systems.
+
+### 🌾 **MTN Rwanda (via HAMWE EA)**  
+Designed & deployed an agriculture digitization platform using Django, PostgreSQL & USSD flows.
+
+### 🛜 **Tarana Wireless — Software Engineer (USA)**  
+Built internal tools for hardware testing, validation & workflows.
+
+---
+
+## 🎓 Certifications  
+
+- 🟧 **AWS Solutions Architect – Associate**  
+- 🟧 **AWS Cloud Practitioner**  
+- 🟦 **PCEP – Certified Python Programmer**  
+- 🎓 Applied Data Science Lab – WQU  
+- 💡 GitHub Copilot Fundamentals  
+
+---
+
+## 📊 GitHub Metrics  
+
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickCmd&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCmd&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickCmd&theme=tokyonight)
+
+---
+
+## ✨ Fun Facts  
+- I love building AI-enabled backend systems  
+- I'm passionate about cloud-native automation  
+- I enjoy solving real-world problems with technology  
+- Always learning, always exploring  
+
+---
+
+## 📫 Connect With Me  
+**Email:** p.walukagga@gmail.com  
+**LinkedIn:** https://linkedin.com/in/patrick-walukagga-53261382  
+**GitHub:** https://github.com/PatrickCmd
+
