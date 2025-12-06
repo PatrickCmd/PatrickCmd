@@ -40,25 +40,6 @@ Back-End Software Engineer with **4+ years** building scalable backend systems, 
 
 ---
 
-## 🏢 Experience Highlights  
-
-### 🧠 **Sunbird AI — Software Engineer**  
-Building backend systems + infrastructure powering African language AI services.
-
-### 🎧 **Audersity — Django Backend Engineer**  
-Engineered stable, reliable, modular backend systems.
-
-### 📊 **Cecure Intelligence — Data Engineer Trainee**  
-Developed ETL pipelines and automated data ingestion systems.
-
-### 🌾 **MTN Rwanda (via HAMWE EA)**  
-Designed & deployed an agriculture digitization platform using Django, PostgreSQL & USSD flows.
-
-### 🛜 **Tarana Wireless — Software Engineer (USA)**  
-Built internal tools for hardware testing, validation & workflows.
-
----
-
 ## 🎓 Certifications  
 
 - 🟧 **AWS Solutions Architect – Associate**  
@@ -66,16 +47,6 @@ Built internal tools for hardware testing, validation & workflows.
 - 🟦 **PCEP – Certified Python Programmer**  
 - 🎓 Applied Data Science Lab – WQU  
 - 💡 GitHub Copilot Fundamentals  
-
----
-
-## 📊 GitHub Metrics  
-
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickCmd&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCmd&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PatrickCmd&theme=tokyonight)
 
 ---
 
