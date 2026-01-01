@@ -61,6 +61,6 @@ Back-End Software Engineer with **4+ years** building scalable backend systems, 
 ## 📫 Connect With Me  
 **Email:** p.walukagga@gmail.com  
 **LinkedIn:** https://linkedin.com/in/patrick-walukagga-53261382  
-**GitHub:** https://github.com/PatrickCmd
+**GitHub:** https://github.com/PatrickCmd  
 **Portfolio:** https://patrickcmd.dev
 
